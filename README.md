@@ -21,8 +21,8 @@ Este proyecto implementa un modelo de predicción de ventas utilizando regresió
 ## 🛠️ Instalación
 1. Clona este repositorio:
    ```bash
-   git clone [URL_DEL_REPOSITORIO]
-   cd nombre-del-repositorio
+   git clone https://github.com/conecta-media/prediccion-de-ventas.git
+   cd prediccion-de-ventas
    ```
 
 2. Crea y activa un entorno virtual (recomendado):
